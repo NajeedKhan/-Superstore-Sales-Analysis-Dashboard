@@ -33,3 +33,13 @@ West region drives the highest revenue.
 State-Wise Sales Map:
 California: $457, Highest performing state
 New York: $310K, Second-highest
+
+Visual analysis of sales density across U.S. states.
+
+# 🛠 Tools Used
+
+Tableau for dashboard development
+
+Microsoft Excel for data cleaning and preprocessing
+
+Data Visualization Techniques for storytelling and insight extraction
