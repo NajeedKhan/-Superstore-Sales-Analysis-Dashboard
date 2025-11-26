@@ -1,8 +1,8 @@
-📊 Superstore Sales Analysis Dashboard
+# 📊 Superstore Sales Analysis Dashboard
 
 This repository contains my Tableau Dashboard and the Excel dataset used to analyze key sales trends from the global Superstore dataset. The project highlights performance across categories, segments, regions, and customer behaviors using interactive visual analytics.
 
-🚀 Project Overview
+## 🚀 Project Overview
 
 The Superstore Sales Dashboard provides insights into:
 
@@ -16,7 +16,7 @@ Products Sold: 37K+
 
 Total Customers: 793
 
-🔍 Key Visual Insights
+## 🔍 Key Visual Insights
 
 Sales by Sub-Category:
 Phones and Chairs lead with the highest revenue.
@@ -31,4 +31,5 @@ Regional Performance:
 West region drives the highest revenue.
 
 State-Wise Sales Map:
-Visual analysis of sales density across U.S. states.
+California: $457, Highest performing state
+New York: $310K, Second-highest
